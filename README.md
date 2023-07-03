@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello 👋, Je m'appelle Annie Garcia Dutaitre</h1>
-<h3 align="center">Je développe des sites et des applications pour le WEB ou en JavaSE.</h3>
+<h1 align="center">AGDBO  service pour le WEB ou en JavaSE</h1>
+<h2 align="center">Technologies Front :  REACT, SASS TYPESCRIPT </h2>
+<h2 align="center">Technologies Back :  PHP, MYSQL, SYMFONY  </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agdbo" alt="agdbo" /></a> </p>
+
 
 - 🔭 Je travaille actuellement sur **mon portfolio**
 
