@@ -1,4 +1,5 @@
-![image](https://github.com/AGDBO/AGDBO/assets/3585570/c47ef264-608e-44be-a7f8-624a10004d96)<!--
+
+<!--
 **AGDBO/AGDBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">AGDBO  service pour le WEB </h1>
+<h1 align="center">AGDBO développe des services pour le WEB </h1>
 <h2 align="center">Technologies Front :  REACT, SASS, TYPESCRIPT </h2>
 <h2 align="center">Technologies Back :  PHP, MYSQL, SYMFONY, WORDPRESS  </h2>
 
@@ -26,8 +27,6 @@ Here are some ideas to get you started:
 
 - 📫Vous pouvez me contacter : **annie@garciadutaitre.com ou bien au 06 04 11 03 34**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 
