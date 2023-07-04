@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 Je travaille actuellement sur **Mes finances sans stress**
-- 🌱 J'apprend Electron 
+- 🔭 Je travaille actuellement sur **Mes finances personnelles sans stress**
+- 🌱 Cette application utilise Electron, React, Typescript, Sqlite
+- 👯 Elle travaille en locale et communique avec un serveur distant pour se mettre à jour.  
 
-- 💬 Développer une application web c'est bien , la faire connaitre c'est mieux... Parler moi de **Google ADS, Facebook ADS **
+💬  Développer une application web c'est bien , la faire connaitre c'est mieux...  **Google ADS, Facebook ADS ** et d'autres
 
 - 📫Vous pouvez me contacter : **annie@garciadutaitre.com ou bien au 06 04 11 03 34**
 
